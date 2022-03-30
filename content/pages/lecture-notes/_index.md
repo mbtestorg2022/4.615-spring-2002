@@ -17,7 +17,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![Lec 1: Early Egypt.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/egypt.jpg)]({{< baseurl >}}/pages/lecture-notes/ch1-1)
+[{{< resource "9398f1c6-1593-de77-39af-9a5897867eec" >}}]({{< baseurl >}}/pages/lecture-notes/ch1-1)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -43,7 +43,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 3: Abbasids and Tulunids.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/1007.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec3)
+[**{{< resource "8294dc4a-e1e2-8d2d-ec7d-39eed8698935" >}}**]({{< baseurl >}}/pages/lecture-notes/lec3)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -66,7 +66,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 4: Fatimid al-Qahira.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0004.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec4)
+[**{{< resource "34497ca3-b9dc-6562-b0a4-24c44c009dee" >}}**]({{< baseurl >}}/pages/lecture-notes/lec4)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -79,7 +79,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 5: Fatimid Mosques.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0005.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec5)
+[**{{< resource "ea2ad0d0-7ff4-ddc4-aff0-a88a3499620c" >}}**]({{< baseurl >}}/pages/lecture-notes/lec5)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -92,7 +92,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 6: Late Fatimid.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0006.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec6)
+[**{{< resource "01e013b5-5fac-2d98-b69d-90279610be4a" >}}**]({{< baseurl >}}/pages/lecture-notes/lec6)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -116,7 +116,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 7: Ayyubid.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0007.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec7)
+[**{{< resource "c7c2c29c-dea6-4ef4-49f0-cf7c83894bf8" >}}**]({{< baseurl >}}/pages/lecture-notes/lec7)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -129,7 +129,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 8: Religious Ayyubid Cairo.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0008.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec8)
+[**{{< resource "12d901b2-dc4d-f508-927f-95f39f40359a" >}}**]({{< baseurl >}}/pages/lecture-notes/lec8)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -142,7 +142,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 9: Early Mamluk.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0009.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec9)
+[**{{< resource "52f9c506-3a55-e6e0-5279-86c9b343e206" >}}**]({{< baseurl >}}/pages/lecture-notes/lec9)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -155,7 +155,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 10: The Reign of Sultan al-Nasir Muhammad (1293-1341)](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0010.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec10)
+[**{{< resource "93b26dce-30e5-15f3-e49e-bd431e59537c" >}}**]({{< baseurl >}}/pages/lecture-notes/lec10)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -168,7 +168,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 11: Late Bahri.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0011.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec11)
+[**{{< resource "e95bda3f-5e8b-4427-c1e8-eeba875b8f0f" >}}**]({{< baseurl >}}/pages/lecture-notes/lec11)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -181,7 +181,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 12: Residential Cairo.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0012.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec12)
+[**{{< resource "18ecaf29-866e-e4c3-da3a-c2a05a0c4fe0" >}}**]({{< baseurl >}}/pages/lecture-notes/lec12)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -204,7 +204,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 13: Burji Mamluk.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0013.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec13)
+[**{{< resource "d074ba28-239e-c921-7b48-858deb698a21" >}}**]({{< baseurl >}}/pages/lecture-notes/lec13)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -217,7 +217,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 14: Northern Qarafa.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0014.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec14)
+[**{{< resource "315c26d9-186d-b477-ee2e-a45acbaf943a" >}}**]({{< baseurl >}}/pages/lecture-notes/lec14)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -230,7 +230,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 15: Ottoman Cairo.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0015.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec15)
+[**{{< resource "13661c4f-5762-4050-084c-1e05899fd0c5" >}}**]({{< baseurl >}}/pages/lecture-notes/lec15)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -243,7 +243,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 16: Mamluk Beys.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0016.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec16)
+[**{{< resource "f91eb7bc-202a-e3e7-3d62-77acff8e3dad" >}}**]({{< baseurl >}}/pages/lecture-notes/lec16)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -266,7 +266,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 17: Napoleon to Muhammad 'Ali.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0017.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec17)
+[**{{< resource "f8c3c123-64a3-71c7-c867-9e74da4400cc" >}}**]({{< baseurl >}}/pages/lecture-notes/lec17)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -279,7 +279,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 18: Modernization.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0018.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec18)
+[**{{< resource "b8c69c70-6fc4-d19c-7ddc-c1e92aaf346a" >}}**]({{< baseurl >}}/pages/lecture-notes/lec18)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -292,7 +292,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 19: Neo Styles.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0019.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec19)
+[**{{< resource "49ea7619-2d85-7782-5287-dca7f68aeb5f" >}}**]({{< baseurl >}}/pages/lecture-notes/lec19)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -305,7 +305,7 @@ uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[**![Lec 20: Historicism.](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/0020.jpg)**]({{< baseurl >}}/pages/lecture-notes/lec20)
+[**{{< resource "37ee3347-1c4f-6bbf-b48d-f5e05ea1e8fd" >}}**]({{< baseurl >}}/pages/lecture-notes/lec20)
 {{< tdclose >}}
 {{< tdopen >}}
 

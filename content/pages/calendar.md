@@ -6,7 +6,7 @@ uid: 0fb63345-05fd-5eac-43e7-f2ef16d89e4b
 
 For full reading citations, please see the [readings]({{< baseurl >}}/pages/readings) section.  And for a printable version of this calendar, please click here ([PDF]({{< baseurl >}}/resources/calendar)).
 
-![Part 1 - Beginnings - History, Geography, and Religion](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/calendar/1.jpg) Part 1 - Beginnings - History, Geography, and Religion
+{{< resource "c78b1318-7e3e-34d0-7310-c29e9bc3c5da" >}} Part 1 - Beginnings - History, Geography, and Religion
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 {{< tableopen >}}
@@ -91,7 +91,7 @@ Buildings of the Ikhshidids.
 {{< tableclose >}}
 
   
-![Part 5 - Modernization and After - Muhammad 'Ali to the Present](/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/calendar/5.jpg) Part 5 - Modernization and After - Muhammad 'Ali to the Present
+{{< resource "13529e9f-a4e7-72b0-5fcb-df85888ea368" >}} Part 5 - Modernization and After - Muhammad 'Ali to the Present
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 {{< tableopen >}}

@@ -14,6 +14,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 resourcetype: Image
 title: SLD35.gif
 uid: dc101609-082a-0da7-df19-38459befe33e
